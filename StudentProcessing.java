@@ -6,11 +6,11 @@ public class StudentProcessing {
     public static void main(String[] args) {
         // Create a list of students
         List<Student> students = Arrays.asList(
-                new Student("Alice", 80.5),
-                new Student("Bob", 72.0),
-                new Student("Charlie", 85.0),
-                new Student("Diana", 90.0),
-                new Student("Evan", 76.0)
+                new Student("Aditya", 80.5),
+                new Student("Bobby", 72.0),
+                new Student("Chetan", 85.0),
+                new Student("sangam", 90.0),
+                new Student("Elvish", 76.0)
         );
 
         // Process the list using streams
